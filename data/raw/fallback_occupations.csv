@@ -1,0 +1,8 @@
+job,soc_code,median_salary,employment_2023,growth_pct_2023_2033,ai_capability_score,routine_task_share
+Frontend Developer,15-001,90000,50000,10,0.65,0.45
+Backend Developer,15-002,115000,70000,8,0.6,0.4
+DevOps Engineer,15-003,120000,45000,15,0.35,0.3
+QA Engineer,15-004,85000,30000,2,0.75,0.6
+Mobile Developer,15-005,95000,25000,12,0.55,0.5
+Data Engineer,15-006,125000,20000,18,0.4,0.35
+ML Engineer,15-007,140000,15000,20,0.25,0.2
