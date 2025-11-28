@@ -1,0 +1,5 @@
+/bin/
+/output/
+/*.o
+*.exe
+.DS_Store
